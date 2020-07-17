@@ -1,0 +1,12 @@
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\dynami.deps.json
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\dynami.runtimeconfig.json
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\dynami.runtimeconfig.dev.json
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\dynami.dll
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\dynami.csprojAssemblyReference.cache
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\dynami.csproj.CoreCompileInputs.cache
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\dynami.AssemblyInfoInputs.cache
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\dynami.AssemblyInfo.cs
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\dynami.dll.config
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\dynami.pdb
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\dynami.dll
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\dynami.pdb

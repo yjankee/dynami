@@ -1,0 +1,15 @@
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\app.csprojAssemblyReference.cache
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\app.csproj.CoreCompileInputs.cache
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\app.AssemblyInfoInputs.cache
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\app.AssemblyInfo.cs
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\app.dll.config
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\app.deps.json
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\app.runtimeconfig.json
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\app.runtimeconfig.dev.json
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\app.dll
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\app.pdb
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\model.dll
+C:\Users\P121C92\source\repos\dynami\dynami\bin\Debug\netcoreapp2.1\model.pdb
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\app.csproj.CopyComplete
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\app.dll
+C:\Users\P121C92\source\repos\dynami\dynami\obj\Debug\netcoreapp2.1\app.pdb

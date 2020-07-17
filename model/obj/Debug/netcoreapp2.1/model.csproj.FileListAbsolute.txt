@@ -1,0 +1,8 @@
+C:\Users\P121C92\source\repos\dynami\model\bin\Debug\netcoreapp2.1\model.deps.json
+C:\Users\P121C92\source\repos\dynami\model\bin\Debug\netcoreapp2.1\model.dll
+C:\Users\P121C92\source\repos\dynami\model\bin\Debug\netcoreapp2.1\model.pdb
+C:\Users\P121C92\source\repos\dynami\model\obj\Debug\netcoreapp2.1\model.csproj.CoreCompileInputs.cache
+C:\Users\P121C92\source\repos\dynami\model\obj\Debug\netcoreapp2.1\model.AssemblyInfoInputs.cache
+C:\Users\P121C92\source\repos\dynami\model\obj\Debug\netcoreapp2.1\model.AssemblyInfo.cs
+C:\Users\P121C92\source\repos\dynami\model\obj\Debug\netcoreapp2.1\model.dll
+C:\Users\P121C92\source\repos\dynami\model\obj\Debug\netcoreapp2.1\model.pdb

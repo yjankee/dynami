@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/dynami/v15/Server/sqlite3/storage.ide-wal
+/.vs/dynami/v15/Server/sqlite3/storage.ide-shm
+/.vs/dynami/v15/Server/sqlite3/storage.ide
+/.vs/dynami/v15/Server/sqlite3/db.lock
